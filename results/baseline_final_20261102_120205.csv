@@ -1,0 +1,41 @@
+﻿email_index,border_type,question,ideal,model,response,status,done_reason,prompt_tokens,output_tokens,elapsed_seconds
+0,empty,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,263,6,2.88
+0,=,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,266,6,2.96
+0,-,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,266,6,2.85
+0,code,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,267,6,2.97
+1,empty,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,The email does not contain information about payments to Air Canada.,success,stop,313,13,2.91
+1,=,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$373.52,success,stop,316,8,2.97
+1,-,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$373.52,success,stop,316,8,2.99
+1,code,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$373.52,success,stop,317,8,2.99
+2,empty,"Q: Find the $ value paid to Typeform? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$420.00,success,stop,187,8,2.68
+2,=,"Q: Find the $ value paid to Typeform? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$420.00,success,stop,190,8,2.78
+2,-,"Q: Find the $ value paid to Typeform? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$420.00,success,stop,190,8,2.79
+2,code,"Q: Find the $ value paid to Typeform? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$420.00,success,stop,191,8,2.79
+3,empty,"Q: Find the $ value paid to Deel? If multiple, record all $ values paid.","$8,803.15",qwen2.5:1.5b,"$8,803.15",success,stop,325,10,2.92
+3,=,"Q: Find the $ value paid to Deel? If multiple, record all $ values paid.","$8,803.15",qwen2.5:1.5b,"$8,803.15",success,stop,328,10,2.99
+3,-,"Q: Find the $ value paid to Deel? If multiple, record all $ values paid.","$8,803.15",qwen2.5:1.5b,"$8,803.15",success,stop,328,10,3.0
+3,code,"Q: Find the $ value paid to Deel? If multiple, record all $ values paid.","$8,803.15",qwen2.5:1.5b,"$8,803.15",success,stop,329,10,3.01
+4,empty,"Q: Find the $ value paid to Paypal? If multiple, record all $ values paid.",$200.00,qwen2.5:1.5b,$200.00,success,stop,221,8,2.95
+4,=,"Q: Find the $ value paid to Paypal? If multiple, record all $ values paid.",$200.00,qwen2.5:1.5b,$200.00,success,stop,224,8,2.97
+4,-,"Q: Find the $ value paid to Paypal? If multiple, record all $ values paid.",$200.00,qwen2.5:1.5b,$200.00,success,stop,224,8,2.88
+4,code,"Q: Find the $ value paid to Paypal? If multiple, record all $ values paid.",$200.00,qwen2.5:1.5b,$200.00,success,stop,225,8,2.97
+5,empty,"Q: Find the $ value paid to Ganesha? If multiple, record all $ values paid.",$420.00,qwen2.5:1.5b,••1890,success,stop,188,7,2.41
+5,=,"Q: Find the $ value paid to Ganesha? If multiple, record all $ values paid.",$420.00,qwen2.5:1.5b,$420.00,success,stop,191,8,2.68
+5,-,"Q: Find the $ value paid to Ganesha? If multiple, record all $ values paid.",$420.00,qwen2.5:1.5b,$420.00,success,stop,191,8,2.59
+5,code,"Q: Find the $ value paid to Ganesha? If multiple, record all $ values paid.",$420.00,qwen2.5:1.5b,••1890,success,stop,192,7,2.77
+6,empty,"Q: Find the $ value paid to David? If multiple, record all $ values paid.",$47.77,qwen2.5:1.5b,••4605,success,stop,176,7,2.66
+6,=,"Q: Find the $ value paid to David? If multiple, record all $ values paid.",$47.77,qwen2.5:1.5b,$47.77,success,stop,179,7,2.75
+6,-,"Q: Find the $ value paid to David? If multiple, record all $ values paid.",$47.77,qwen2.5:1.5b,$47.77,success,stop,179,7,2.72
+6,code,"Q: Find the $ value paid to David? If multiple, record all $ values paid.",$47.77,qwen2.5:1.5b,••4605,success,stop,180,7,2.68
+7,empty,"Q: Find the $ value paid to Sara? If multiple, record all $ values paid.","$2,500",qwen2.5:1.5b,$205.12,success,stop,185,8,2.76
+7,=,"Q: Find the $ value paid to Sara? If multiple, record all $ values paid.","$2,500",qwen2.5:1.5b,$205.12,success,stop,188,8,2.66
+7,-,"Q: Find the $ value paid to Sara? If multiple, record all $ values paid.","$2,500",qwen2.5:1.5b,$205.12,success,stop,188,8,2.68
+7,code,"Q: Find the $ value paid to Sara? If multiple, record all $ values paid.","$2,500",qwen2.5:1.5b,$205.12,success,stop,189,8,2.62
+8,empty,"Q: Find the $ value paid to Stripe? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,"$2,657.81",success,stop,276,10,2.95
+8,=,"Q: Find the $ value paid to Stripe? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,"$2,657.81",success,stop,279,10,2.95
+8,-,"Q: Find the $ value paid to Stripe? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,"$2,657.81",success,stop,279,10,2.96
+8,code,"Q: Find the $ value paid to Stripe? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,"$2,657.81",success,stop,280,10,3.02
+9,empty,"Q: Find the $ value paid to Bench? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,"$1,076.40",success,stop,327,10,2.52
+9,=,"Q: Find the $ value paid to Bench? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,"$1,076.40",success,stop,330,10,2.44
+9,-,"Q: Find the $ value paid to Bench? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,"$1,076.40",success,stop,330,10,2.39
+9,code,"Q: Find the $ value paid to Bench? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,••1890,success,stop,331,7,2.39

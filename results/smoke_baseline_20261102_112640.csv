@@ -1,0 +1,5 @@
+﻿email_index,border_type,question,ideal,model,response,status,done_reason,prompt_tokens,output_tokens,elapsed_seconds
+0,empty,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,263,6,2.48
+0,=,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,266,6,2.37
+0,-,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,266,6,2.39
+0,code,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,qwen2.5:1.5b,$0.00,success,stop,267,6,2.33

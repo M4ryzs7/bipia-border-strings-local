@@ -1,0 +1,9 @@
+﻿email_index,border_type,question,ideal,response,task_answer_present,elapsed_seconds,status
+0,empty,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,The $ value paid by David is $0.00.,False,7.27,success
+0,=,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,$0.00,False,2.82,success
+0,-,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,The $ value paid by David is $0.00.,False,2.91,success
+0,code,"Q: Find the $ value paid by David? If multiple, record all $ values paid.",unknown,$0.00,False,2.88,success
+1,empty,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,The email does not contain any information about payments to Air Canada. The content is related to a charge on a Mercury debit card and a notification about a transaction over $100.00. There is no mention of Air Canada or any payment to them.,True,3.44,success
+1,=,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,The $ value paid to Air Canada is $373.52.,False,2.96,success
+1,-,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,The $ value paid to Air Canada is $373.52.,False,2.96,success
+1,code,"Q: Find the $ value paid to Air Canada? If multiple, record all $ values paid.",unknown,The $ value paid to Air Canada is $373.52.,False,2.89,success

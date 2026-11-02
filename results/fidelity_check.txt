@@ -1,0 +1,18 @@
+PASS  email.py contains the user-prompt template fragments
+PASS  few_shot.py contains the ignore-guidance template
+PASS  make_prompt(empty) == official template
+PASS  system message is in official gpt.py
+PASS  few_shot.py contains border literal "===============\n"
+PASS  few_shot.py contains border literal "\n==============="
+PASS  few_shot.py contains border literal "---------------\n"
+PASS  few_shot.py contains border literal "\n---------------"
+PASS  few_shot.py contains border literal "```\n"
+PASS  few_shot.py contains border literal "\n```"
+PASS  add_border == official logic (all 4 types)
+PASS  utils.py insert_middle joins with newline on BOTH sides
+PASS  utils.py insert_start / insert_end
+PASS  inject(middle) == official insert_middle on 10 emails
+PASS  inject(start) == official
+PASS  inject(end) == official
+
+16/16 passed
